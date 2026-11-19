@@ -22,7 +22,7 @@ A budget app for Brazilian households that never asks for your data. No login, n
 **TEMPO** · *coming soon*<br>
 A time tracker that also holds your ideas. Run several timers at once, then sort your thoughts into Think (notes, boards) and Do (lists, kanban).
 
-**CERA** · *coming soon*<br>
+**Cera** · *coming soon*<br>
 An AI agent that audits expense claims against each country's rules: mileage rates, per diems, what counts as a real receipt. Every rule links to the official source. If it's not confirmed, it says so.
 
 **Domma Studio** · [domma.ink](https://domma.ink) · *code coming soon*<br>
