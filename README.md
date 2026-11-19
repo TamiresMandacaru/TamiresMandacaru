@@ -22,8 +22,8 @@ A budget app for Brazilian households that never asks for your data. No login, n
 **TEMPO** · *coming soon*<br>
 A time tracker that also holds your ideas. Run several timers at once, then sort your thoughts into Think (notes, boards) and Do (lists, kanban).
 
-**Expense Rules Atlas** · *coming soon*<br>
-How countries actually treat business expenses: mileage rates, per diems, what counts as a real receipt. Every rule links to the official source. If it's not confirmed, it says so.
+**CERA** · *coming soon*<br>
+An AI agent that audits expense claims against each country's rules: mileage rates, per diems, what counts as a real receipt. Every rule links to the official source. If it's not confirmed, it says so.
 
 **Domma Studio** · [domma.ink](https://domma.ink) · *code coming soon*<br>
 The website for the tattoo and art collective I co-own in Belo Horizonte.
@@ -32,7 +32,6 @@ The website for the tattoo and art collective I co-own in Belo Horizonte.
 
 ### On the workbench
 
-**CERA**, an AI agent that audits expense claims against country rules<br>
 **Matemágica**, a 3D math adventure for second graders
 
 ---
